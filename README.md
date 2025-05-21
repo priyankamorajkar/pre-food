@@ -45,12 +45,12 @@ In your browser to start exploring recipes.
 
 <table>
   <tr>
-    <td><img src="assets/screenshot1.png" alt="Search Interface" width="200"></td>
-    <td><img src="assets/screenshot2.png" alt="Recipe Details" width="200"></td>
+    <td><img src="assets/Search_Interface.png" alt="Search Interface" width="200"></td>
+    <td><img src="assets/Recipe_Details.png" alt="Recipe Details" width="200"></td>
   </tr>
   <tr>
-    <td><img src="assets/screenshot3.png" alt="Facts & Tips Section" width="200"></td>
-    <td><img src="assets/screenshot4.png" alt="Responsive Mobile View" width="200"></td>
+    <td><img src="assets/Blog.png" alt="Facts & Tips Section" width="200"></td>
+    <td><img src="assets/Mobile_View.png" alt="Responsive Mobile View" width="200"></td>
   </tr>
 </table>
 
